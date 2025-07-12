@@ -28,11 +28,10 @@
 
 ---
 
-## 🧠 Top Skills & Technologies (Dark Icons View)
+## 🧠 Top Skills & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,swift,js,html,css,vue,react,docker,jenkins,aws,gcp,azure,mongodb,mysql,postgres,figma,photoshop,illustrator&theme=dark" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 <details>
