@@ -1,10 +1,10 @@
 <!-- DARK THEME START -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Hey there, I'm <span style="color:#00ffc6">Jerika Ng</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Hey there, I'm <span style="color:#00ffc6">Anson Koh</span>
 </h1>
 <h3 align="center">
-  🚀 AI Enthusiast • 🧠 Data Engineer • 🧭 Product Builder • 🎓 NUS Global Merit Scholar
+  🚀 AI Enthusiast • 🧠 Data Engineer • 🧭 Product Builder • 🎓 SMU Global Impact Scholar
 </h3>
 
 <p align="center">
@@ -101,7 +101,7 @@
 ## 🏅 Profile Highlights
 <p align="center">
   <img src="https://img.shields.io/badge/-Hackathon%20Winner-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Global%20Merit%20Scholar-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Global%20Impact%20Scholar-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-AI%2FML-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Open%20Source-green?style=for-the-badge" />
 </p>
